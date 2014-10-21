@@ -6,17 +6,28 @@
 
 <br/><br/>
 
+### When should I use this package?
 
-### How to install
+ - When you want to look really busy for your boss and colleagues
+ - When you are lazy mthrfckr that browse FB during the work
+
+ <br/><br/><br/>
+
+### How to install and use
 
     > sudo npm install -g bebusy
     > bebusy
 
+<br/><br/><br/>
 
-### How does it work?
+### What does it do?
 
-    > sudo npm install -g bebusy
-    > bebusy
+Absolutelly fucking nothing.
+
+![Morpheus](https://rawgit.com/ondrek/bebusy.js/master/graphs/morpheus.jpg)
+
+
+<br/><br/><br/>
 
 ### How does it looks like?
 
@@ -28,13 +39,18 @@
 
 <br/>
 
-![Productivity image](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-1.png "be busy case study 1")
+![Productivity image](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-1.png)
 <br/>
-![Productivity image](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-2.png "be busy case study 2")
+![Productivity image](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-2.png)
 
 <br/><br/><br/>
 
 ### Versions
+
+**0.3**
+
+ - Added functionality video/git and updated README
+ - Minor updates in package.json configuration file
 
 **0.2**
 
