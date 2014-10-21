@@ -20,15 +20,20 @@
      */
     var BeBusy = function(options) {
 
-        this.improveConsoleFn()
-        this.getAuthenticParagraph();
+        this.improveConsoleFn();
+        this.askInitUserQuestions();
 
-        this.options = options ? options : {
-            version : options.version || 1,
-            logs : options.logs || false,
-            salt : options.salt || "",
-            speed : options.speed || 1
-        };
+    };
+
+
+    /**
+     *
+     */
+    BeBusy.prototype.askInitUserQuestions = function() {
+
+        console.log("Hello, visitor! Welcome in BeBusy package".green);
+        console.log("Version: 1.0".red);
+        this.askTheQuestionAndGetAnAnswer();
 
 
     };
@@ -37,24 +42,39 @@
     /**
      *
      */
-    BeBusy.prototype.askInitQuestions = function() {
+    BeBusy.prototype.askTheQuestionAndGetAnAnswer = function() {
 
-        console.log("Hello, visitor! Welcome in BeBusy package".green);
-        console.log("Version: 1.0".red);
-
+        var questions = "What speed do you want (fast, medium, slow or random): ";
         var that = this;
 
-        var rl = readlineMdl.createInterface({
+        this.rl = readlineMdl.createInterface({
             input: process.stdin,
             output: process.stdout
         });
 
-        var questions = "[bebusy] What speed of generated messages do you want (slow, medium, fast): ";
-
-        rl.question(questions, function(answer){
-            that.generateIpsum();
-            rl.close();
+        this.rl.question(questions, function(answer){
+            that.handleUserInitialAnswers(answer);
         });
+
+    };
+
+
+    /**
+     *
+     */
+    BeBusy.prototype.handleUserInitialAnswers = function(answer) {
+
+        var possibleAnswers = ["slow", "medium", "fast", "random"];
+        var isValidAnswer = (possibleAnswers.indexOf(answer)!==-1);
+
+        this.rl.close();
+
+        if (!isValidAnswer){
+            this.askTheQuestionAndGetAnAnswer();
+        } else {
+            this.selectedSpeedByUser = answer;
+            this.getAuthenticParagraph();
+        }
 
     };
 
@@ -71,13 +91,13 @@
         var randomColor = this.getRandomColor();
         var randomStatus = this.getRandomStatus();
         var randomModule = this.getRandomModule();
+        var randomTime = this.getRandomShortTime();
 
         console.log(randomModule.grey + " " + randomStatus.magenta + " " + randomMessage);
 
         setTimeout(function(){
             that.getAuthenticParagraph();
-        }, 70);
-
+        }, randomTime);
 
     };
 
@@ -87,6 +107,8 @@
      *
      */
     BeBusy.prototype.getRandomMessage = function() {
+
+        var that = this;
 
         var senteces = [
             "it worked if it ends with ok",
@@ -110,10 +132,48 @@
             "postinstall bebusy@0.1.10",
             "prepublish bebusy@0.1.10",
             "exit [ 0, true ]",
-            "ok"
+            "ok",
+            "etag " + that.getRandomHexNumber()
         ];
 
         return underscoreMdl.sample(senteces);
+
+    };
+
+
+    /**
+     *
+     */
+    BeBusy.prototype.getRandomHexNumber = function() {
+
+        var stringSize = 60;
+        var generatedHexString = "";
+        var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+
+        for (var i=0; i<stringSize; i++){
+            generatedHexString += possible.charAt(Math.floor(Math.random() * possible.length));
+        }
+
+        return generatedHexString;
+    }
+
+
+    /**
+     *
+     */
+    BeBusy.prototype.getRandomShortTime = function() {
+
+        var speed = this.selectedSpeedByUser;
+
+        if (speed==="fast") {
+            return underscoreMdl.random(10, 20);
+        } else if (speed==="medium") {
+            return underscoreMdl.random(50, 200);
+        } else if (speed==="slow") {
+            return underscoreMdl.random(100, 500);
+        } else if (speed==="random") {
+            return underscoreMdl.random(10, 300);
+        }
 
     };
 
@@ -127,10 +187,12 @@
         var modules = [
             "npm",
             "install",
-            "ruby",
             "download",
             "parse",
-            "ok"
+            "ok",
+            "verb",
+            "WARN",
+            "info"
         ];
 
         return underscoreMdl.sample(modules);
@@ -167,67 +229,6 @@
             "306 Switch Proxy",
             "307 Temporary Redirect",
             "308 Permanent Redirect",
-            "400 Bad Request",
-            "401 Unauthorized",
-            "402 Payment Required",
-            "403 Forbidden",
-            "404 Not Found",
-            "405 Method Not Allowed",
-            "406 Not Acceptable",
-            "407 Proxy Authentication Required",
-            "408 Request Timeout",
-            "409 Conflict",
-            "410 Gone",
-            "411 Length Required",
-            "412 Precondition Failed",
-            "413 Request Entity Too Large",
-            "414 Request-URI Too Long",
-            "415 Unsupported Media Type",
-            "416 Requested Range Not Satisfiable",
-            "417 Expectation Failed",
-            "418 I'm a teapot",
-            "419 Authentication Timeout",
-            "420 Method Failure",
-            "420 Enhance Your Calm",
-            "422 Unprocessable Entity",
-            "423 Locked",
-            "424 Failed Dependency",
-            "426 Upgrade Required",
-            "428 Precondition Required",
-            "429 Too Many Requests",
-            "431 Request Header Fields Too Large",
-            "440 Login Timeout",
-            "444 No Response",
-            "449 Retry With",
-            "450 Blocked by Windows Parental Controls",
-            "451 Unavailable For Legal Reasons",
-            "451 Redirect",
-            "494 Request Header Too Large",
-            "495 Cert Error",
-            "496 No Cert",
-            "497 HTTP to HTTPS",
-            "498 Token expired/invalid",
-            "499 Client Closed Request",
-            "499 Token required",
-            "500 Internal Server Error",
-            "501 Not Implemented",
-            "502 Bad Gateway",
-            "503 Service Unavailable",
-            "504 Gateway Timeout",
-            "505 HTTP Version Not Supported",
-            "506 Variant Also Negotiates",
-            "507 Insufficient Storage",
-            "508 Loop Detected",
-            "509 Bandwidth Limit Exceeded",
-            "510 Not Extended",
-            "511 Network Authentication Required",
-            "520 Origin Error",
-            "521 Web server is down",
-            "522 Connection timed out",
-            "523 Proxy Declined Request",
-            "524 A timeout occurred",
-            "598 Network read timeout error",
-            "599 Network connect timeout error",
             "prepublish",
             "postinstall",
             "install",
@@ -250,7 +251,8 @@
             "GET",
             "POST",
             "trying",
-            "installOne"
+            "installOne",
+            "tar unpack"
         ];
 
         return underscoreMdl.sample(allColors);
@@ -277,7 +279,6 @@
         for (var i=0; i<1000; i++){
             console.log( boganipsumMdl({ sentenceMin: 200, sentenceMax: 205 }) );
         }
-
 
     };
 
