@@ -1,0 +1,41 @@
+{
+  "name": "bebusy",
+  "subdomain": "bebusy",
+  "main": "./bebusy.js",
+  "homepage": "http://github.com/ondrek/bebusy/",
+  "bin": {
+    "bebusy": "./bebusy.js"
+  },
+  "author": "Samuel Ondrek (http://github.com/ondrek/)",
+  "bugs": {
+    "url": "https://github.com/ondrek/bebusy.js/issues/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ondrek/bebusy.js.git"
+  },
+  "description": "Generator of a fast scrolling random console messages, so you can look busy.",
+  "keywords": [
+    "bebusy",
+    "busy",
+    "work",
+    "console",
+    "random",
+    "fun",
+    "terminal"
+  ],
+  "preferGlobal": true,
+  "version": "0.1.10",
+  "license": "MIT",
+  "engines": {
+    "node": "0.10.*"
+  },
+  "scripts": {
+    "test": "./bebusy.js"
+  },
+  "dependencies" : {
+      "colors" : "1.0.3",
+      "boganipsum" : "0.1.0",
+      "underscore" : "1.7.0"
+  }
+}
