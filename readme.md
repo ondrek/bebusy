@@ -1,8 +1,8 @@
-# BeBusy
+# BeBusy.js
 
 <br/><br/>
 
-## Fakes productivity of developer by consoling random messages into the terminal
+## The plugin that fakes productivity of developer by printing random messages into your Terminal, so you look very busy
 
 <br/><br/>
 
@@ -13,19 +13,18 @@
 
  <br/><br/><br/>
 
+### What does BeBusy.js do?
+
+Absolutelly fcking nothing!
+
+![Morpheus](https://rawgit.com/ondrek/bebusy.js/master/graphs/morpheus.jpg)
+
+<br/><br/><br/>
+
 ### How to install and use
 
     > sudo npm install -g bebusy
     > bebusy
-
-<br/><br/><br/>
-
-### What does it do?
-
-Absolutelly fucking nothing.
-
-![Morpheus](https://rawgit.com/ondrek/bebusy.js/master/graphs/morpheus.jpg)
-
 
 <br/><br/><br/>
 
@@ -67,9 +66,11 @@ Absolutelly fucking nothing.
 
 ### Author
 
-**Samuel Ondrek**
-[Twitter](https://twitter.com/ondrek "Follow ma men on Twitter")
-[Github](https://github.com/ondrek "Follow ma men on Github")
+**Samuel Ondrek**;
+[Twitter](https://twitter.com/ondrek "Follow ma men on Twitter");
+[Github](https://github.com/ondrek "Follow ma men on Github");
+
+Inspirated by [Pablo Villoslada](https://twitter.com/Puigcerber) at [ngEurope 2014](http://ngeurope.org/).
 
 <br/>
 
