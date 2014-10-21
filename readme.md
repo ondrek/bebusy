@@ -113,10 +113,9 @@ special characters (3), Eastern European characters (4) and many others..
 
 <br/><br/><br/>
 
-### Bechmark
+### Case Studies
 
-For a full benchmark see file `docs/bechmark.md`, that contains results of our benchmark. We used iMac 2011
-with OSX Yosimite and Node.js v10.17. Computer had installed 4GB RAM.
+We warrant very lower productivity of every developer!
 
 <br/>
 
@@ -128,9 +127,11 @@ with OSX Yosimite and Node.js v10.17. Computer had installed 4GB RAM.
 
 ### Versions
 
-*1.2*
+*1.11*
 
- - Updated colors of initial
+ - Updated colors of initial of modules and submodules
+ - Added random NPM packages
+ - Added path of user and global process variables
 
 <br/>
 
