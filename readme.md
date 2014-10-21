@@ -1,25 +1,59 @@
 # BeBusy
 
-## Fakes productivity of developer consoling random messages.
+<br/><br/>
+
+## Fakes productivity of developer by consoling random messages into the terminal
+
+<br/><br/>
+
+
+### How to install
+
+    > sudo npm install -g bebusy
+    > bebusy
+
+
+### How does it work?
+
+    > sudo npm install -g bebusy
+    > bebusy
+
+### How does it looks like?
+
+![Functionality](https://rawgit.com/ondrek/bebusy.js/master/graphs/functionality.gif)
+
+<br/><br/><br/>
 
 ### Case Studies
 
-We warrant very lower productivity of every developer!
-
 <br/>
 
-![HonestHash](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-1.png "be busy case study 1")
-![HonestHash](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-2.png "be busy case study 2")
+![Productivity image](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-1.png "be busy case study 1")
+<br/>
+![Productivity image](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-2.png "be busy case study 2")
 
 <br/><br/><br/>
 
 ### Versions
 
-*1.11*
+**0.2**
+
+ - Added README graphs about productivity of a developer
+ - Updated README for description
+
+**0.1**
 
  - Updated colors of initial of modules and submodules
  - Added random NPM packages
  - Added path of user and global process variables
+
+<br/><br/><br/>
+
+### Author
+
+**Samuel Ondrek**
+[Twitter](https://twitter.com/ondrek "Follow ma men on Twitter")
+[Github](https://github.com/ondrek "Follow ma men on Github")
 
 <br/>
 
