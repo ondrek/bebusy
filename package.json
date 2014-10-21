@@ -2,7 +2,7 @@
   "name": "bebusy",
   "subdomain": "bebusy",
   "main": "./bebusy.js",
-  "homepage": "http://github.com/ondrek/bebusy/",
+  "homepage": "https://www.npmjs.org/package/bebusy",
   "bin": {
     "bebusy": "./bebusy.js"
   },
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/ondrek/bebusy.js.git"
   },
-  "description": "Generator of a fast scrolling random console messages, so you can look busy.",
+  "description": "The plugin that fakes productivity of developer by printing random messages into your Terminal, so you look very busy.",
   "keywords": [
     "bebusy",
     "busy",

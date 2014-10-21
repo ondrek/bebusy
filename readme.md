@@ -28,13 +28,13 @@ Absolutelly fcking nothing!
 
 <br/><br/><br/>
 
-### How does it looks like?
+### How does it look like?
 
 ![Functionality](https://rawgit.com/ondrek/bebusy.js/master/graphs/functionality.gif)
 
 <br/><br/><br/>
 
-### Case Studies
+### Case Studies Fancy Graphs
 
 <br/>
 
@@ -46,17 +46,18 @@ Absolutelly fcking nothing!
 
 ### Versions
 
-**0.3**
+**0.2.4**
 
  - Added functionality video/git and updated README
  - Minor updates in package.json configuration file
+ - Added Morpheus picture
 
-**0.2**
+**0.2.3**
 
  - Added README graphs about productivity of a developer
  - Updated README for description
 
-**0.1**
+**0.2.2**
 
  - Updated colors of initial of modules and submodules
  - Added random NPM packages
