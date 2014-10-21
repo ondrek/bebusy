@@ -126,11 +126,11 @@ with OSX Yosimite and Node.js v10.17. Computer had installed 4GB RAM.
 
 <br/><br/><br/>
 
-### Licence
+### Versions
 
- - Free for all projects (commercial and non-commercial)
- - MIT licenced
- - For security reasons - use please only the original repository
+*1.2*
+
+ - Updated colors of initial
 
 <br/>
 

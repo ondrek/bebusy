@@ -33,9 +33,10 @@
   "scripts": {
     "test": "./bebusy.js"
   },
-  "dependencies" : {
-      "colors" : "1.0.3",
-      "boganipsum" : "0.1.0",
-      "underscore" : "1.7.0"
-  }
+  "dependencies": {
+    "colors": "1.0.3",
+    "boganipsum": "0.1.0",
+    "underscore": "1.7.0"
+  },
+  "devDependencies": {}
 }
