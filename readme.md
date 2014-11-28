@@ -21,6 +21,16 @@ Absolutelly fcking nothing!
 
 <br/><br/><br/>
 
+### What does community think about it?
+
+"OMG your bebusy lib is awesome, I'll install it at work tomorrow so that I can work on my presentation for thursday (I'm super late)"
+— [Olivier Combe](https://twitter.com/OCombe/status/526493222554857472);
+
+"BeBusy.js library is awesome! "
+— [Me](https://twitter.com/ondrek/status/538259596893515776);
+
+<br/><br/><br/>
+
 ### How to install and use
 
     > sudo npm install -g bebusy
