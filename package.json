@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/ondrek/bebusy.js.git"
   },
-  "description": "fakes developers productivity by printing of random messages into your Terminal, so you look very busy",
+  "description": "fakes developer's productivity by printing random messages to your Terminal, so you look very busy like you are compiling or shit",
   "keywords": [
     "bebusy",
     "busy",

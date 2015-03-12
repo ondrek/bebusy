@@ -2,19 +2,17 @@
 
 <br/>
 
-### You should use this sick plugin when you ..
+## You should use this sick plugin when you ..
 
- - .. are lazy motherfucker that browse Facebook wall full of cats
+ - .. are lazy motherfucker that browse a Facebook page with cats
  - .. read fucking blogs about productivity instead of programming
- - .. have deadlines a month ahead
+ - .. have project deadlines a month ahead
 
- <br/><br/>
+ <br/>
 
-### You lazy useless piece of shit!
+## You lazy useless piece of shit!
 
-Absolutelly fcking nothing!
-
-![Morpheus](https://rawgit.com/ondrek/bebusy.js/master/graphs/morpheus.jpg)
+![Morpheus](https://rawgit.com/ondrek/bebusy.js/master/graphs/morpheus.jpg?1)
 
 <br/><br/><br/>
 
