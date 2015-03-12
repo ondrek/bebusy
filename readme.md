@@ -41,19 +41,17 @@
 
 <br/><br/>
 
-## How does it look like?
+## What does it look like?
 
 ![Functionality](https://rawgit.com/ondrek/bebusy.js/master/graphs/functionality.gif)
 
-<br/><br/><br/>
+<br/><br/>
 
 ## Case Studies Fancy Graphs
 
-<br/>
-
 ![Productivity image](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-2.png)
 
-<br/><br/><br/>
+<br/><br/>
 
 ## Author
 
@@ -63,7 +61,6 @@
 
 Inspirated by [Pablo Villoslada](https://twitter.com/Puigcerber) at [ngEurope 2014](http://ngeurope.org/).
 
-<br/>
 
  [1]: http://en.wikipedia.org/wiki/Rainbow_table  "Check what is a rainbow table on Wikipedia"
  [2]: http://www.hashkiller.co.uk/  "Try to crack your own MD5 hash"
