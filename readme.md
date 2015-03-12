@@ -53,11 +53,7 @@
 
 <br/><br/>
 
-## Author
-
-**Samuel Ondrek**;
-[Twitter](https://twitter.com/ondrek "Follow ma men on Twitter");
-[Github](https://github.com/ondrek "Follow ma men on Github");
+## Author Samuel Ondrek**; [Twitter](https://twitter.com/ondrek "Follow ma men on Twitter"); [Github](https://github.com/ondrek "Follow ma men on Github");
 
 Inspirated by [Pablo Villoslada](https://twitter.com/Puigcerber) at [ngEurope 2014](http://ngeurope.org/).
 
