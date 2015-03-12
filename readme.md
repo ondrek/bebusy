@@ -44,30 +44,11 @@
 
 <br/><br/><br/>
 
-### Case Studies Fancy Graphs
+## Case Studies Fancy Graphs
 
 <br/>
 
 ![Productivity image](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-2.png)
-
-<br/><br/><br/>
-
-## Versions
-
-**0.2.11**
-Skipped 5 versions
-
-**0.2.4**
-Added video (gif), readme, invited Morpheus
-
-**0.2.3**
- - Added README graphs about productivity of a developer
- - Updated README for description
-
-**0.2.2**
- - Updated colors of initial of modules and submodules
- - Added random NPM packages
- - Added path of user and global process variables
 
 <br/><br/><br/>
 
