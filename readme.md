@@ -16,8 +16,6 @@
 
 ## "OMG your bebusy lib is awesome, I'll install it at work tomorrow so that I can work on my presentation for thursday (I'm super late)" — [Olivier Combe](https://twitter.com/OCombe/status/526493222554857472);
 
-## "BeBusy.js library is awesome! " — [Me](https://twitter.com/ondrek/status/538259596893515776);
-
 <br/><br/><br/>
 
 ## How to install this through terminal?
@@ -28,19 +26,19 @@
       -d currency=usd \
       -d "description=DonationForBubusy" \
       -d "source[object]=card" \
-      -d "source[number]=4242424242424242" \  <--- your credit card number
-      -d "source[exp_month]=12" \    <--- your credit card expiration month
-      -d "source[exp_year]=2016" \    <--- your credit card expiration year
-      -d "source[cvc]=123"    <--- your credit card CVC
+      -d "source[number]=4242424242424242" \    # your credit card number
+      -d "source[exp_month]=12" \    # your credit card expiration month
+      -d "source[exp_year]=2016" \    #your credit card expiration year
+      -d "source[cvc]=123"    # your credit card CVC
 
 ## How to really install this bastardizations?
 
     > sudo npm install -g bebusy
     > bebusy
 
-<br/><br/><br/>
+<br/><br/>
 
-### How does it look like?
+## How does it look like?
 
 ![Functionality](https://rawgit.com/ondrek/bebusy.js/master/graphs/functionality.gif)
 
@@ -50,34 +48,30 @@
 
 <br/>
 
-![Productivity image](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-1.png)
-<br/>
 ![Productivity image](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-2.png)
 
 <br/><br/><br/>
 
-### Versions
+## Versions
+
+**0.2.11**
+Skipped 5 versions
 
 **0.2.4**
-
- - Added functionality video/git and updated README
- - Minor updates in package.json configuration file
- - Added Morpheus picture
+Added video (gif), readme, invited Morpheus
 
 **0.2.3**
-
  - Added README graphs about productivity of a developer
  - Updated README for description
 
 **0.2.2**
-
  - Updated colors of initial of modules and submodules
  - Added random NPM packages
  - Added path of user and global process variables
 
 <br/><br/><br/>
 
-### Author
+## Author
 
 **Samuel Ondrek**;
 [Twitter](https://twitter.com/ondrek "Follow ma men on Twitter");
