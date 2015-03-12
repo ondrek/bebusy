@@ -36,6 +36,9 @@
     > sudo npm install -g bebusy
     > bebusy
 
+![Functionality](https://rawgit.com/ondrek/bebusy.js/master/graphs/gollum.jpg)
+
+
 <br/><br/>
 
 ## How does it look like?
