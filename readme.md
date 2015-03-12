@@ -4,29 +4,36 @@
 
 ## You should use this sick plugin when you ..
 
- - .. are lazy motherfucker that browse a Facebook page with cats
- - .. read fucking blogs about productivity instead of programming
+ - .. are lazy motherfucker who browse a Facebook page with cats
  - .. have project deadlines a month ahead
+ - .. read fucking blogs about productivity instead of programming
 
- <br/>
-
-## You lazy useless piece of shit!
 
 ![Morpheus](https://rawgit.com/ondrek/bebusy.js/master/graphs/morpheus.jpg?2)
 
 <br/><br/><br/>
 
-### What does community think about it?
 
-"OMG your bebusy lib is awesome, I'll install it at work tomorrow so that I can work on my presentation for thursday (I'm super late)"
-— [Olivier Combe](https://twitter.com/OCombe/status/526493222554857472);
+## "OMG your bebusy lib is awesome, I'll install it at work tomorrow so that I can work on my presentation for thursday (I'm super late)" — [Olivier Combe](https://twitter.com/OCombe/status/526493222554857472);
 
-"BeBusy.js library is awesome! "
-— [Me](https://twitter.com/ondrek/status/538259596893515776);
+## "BeBusy.js library is awesome! " — [Me](https://twitter.com/ondrek/status/538259596893515776);
 
 <br/><br/><br/>
 
-### How to install and use
+## How to install this through terminal?
+
+    curl https://api.stripe.com/v1/charges \
+      -u BQokikJOvBiI2HlWgH4olfQ2: \
+      -d amount=500 \
+      -d currency=usd \
+      -d "description=DonationForBubusy" \
+      -d "source[object]=card" \
+      -d "source[number]=4242424242424242" \  <--- your credit card number
+      -d "source[exp_month]=12" \    <--- your credit card expiration month
+      -d "source[exp_year]=2016" \    <--- your credit card expiration year
+      -d "source[cvc]=123"    <--- your credit card CVC
+
+## How to really install this bastardizations?
 
     > sudo npm install -g bebusy
     > bebusy
