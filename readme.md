@@ -12,7 +12,7 @@
 
 ## You lazy useless piece of shit!
 
-![Morpheus](https://rawgit.com/ondrek/bebusy.js/master/graphs/morpheus.jpg?1)
+![Morpheus](https://rawgit.com/ondrek/bebusy.js/master/graphs/morpheus.jpg?2)
 
 <br/><br/><br/>
 
