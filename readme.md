@@ -1,19 +1,16 @@
 # BeBusy.js
 
-<br/><br/>
+<br/>
 
-## The plugin that fakes productivity of developer by printing random messages into your Terminal, so you look very busy
+### You should use this sick plugin when you ..
 
-<br/><br/>
+ - .. are lazy motherfucker that browse Facebook wall full of cats
+ - .. read fucking blogs about productivity instead of programming
+ - .. have deadlines a month ahead
 
-### When should I use this package?
+ <br/><br/>
 
- - When you want to look really busy for your boss and colleagues
- - When you are lazy mthrfckr that browse FB during the work
-
- <br/><br/><br/>
-
-### What does BeBusy.js do?
+### You lazy useless piece of shit!
 
 Absolutelly fcking nothing!
 
