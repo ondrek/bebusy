@@ -14,7 +14,7 @@
 <br/><br/><br/>
 
 
-## "OMG your bebusy lib is awesome, I'll install it at work tomorrow so that I can work on my presentation for thursday (I'm super late)" — [Olivier Combe](https://twitter.com/OCombe/status/526493222554857472);
+## "OMG your bebusy lib is awesome, I'll install it at work tomorrow so that I can work on my presentation for thursday (I'm super late)" — [Olivier X.](https://twitter.com/OCombe/status/526493222554857472);
 
 <br/><br/><br/>
 
