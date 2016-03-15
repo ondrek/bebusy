@@ -28,7 +28,7 @@
   "version": "0.2.14",
   "license": "MIT",
   "engines": {
-    "node": "0.10.*"
+    "node": "0.*"
   },
   "scripts": {
     "test": "./bebusy.js"
