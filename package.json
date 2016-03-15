@@ -28,7 +28,7 @@
   "version": "0.2.15",
   "license": "MIT",
   "engines": {
-    "node": "0.*"
+    "node": ">=0.8"
   },
   "scripts": {
     "test": "./bebusy.js"
@@ -37,6 +37,5 @@
     "colors": "1.0.3",
     "boganipsum": "0.1.0",
     "underscore": "1.7.0"
-  },
-  "devDependencies": {}
+  }
 }
