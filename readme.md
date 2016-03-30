@@ -24,7 +24,7 @@
       -u BQokikJOvBiI2HlWgH4olfQ2: \
       -d amount=500 \
       -d currency=usd \
-      -d "description=DonationForBuBusy" \
+      -d "description=DonationForBeBusy" \
       -d "source[object]=card" \
       -d "source[number]=4242424242424242" \    # your credit card number
       -d "source[exp_month]=12" \    # your credit card expiration month
