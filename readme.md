@@ -19,11 +19,6 @@ It fakes your activity by printing random messages to the Terminal.
 
 ![what if I told you, you are useless piece of shit?](https://rawgit.com/ondrek/bebusy.js/master/graphs/morpheus.jpg?2)
 
-<br/><br/>
-
- > “OMG your bebusy lib is awesome,<br/>
- > I'll install it at work tomorrow so that I can work on my presentation for Thursday”<br/>
- > — [Olivier X.](https://twitter.com/OCombe/status/526493222554857472)
 
 <br/><br/>
 
@@ -33,6 +28,19 @@ It fakes your activity by printing random messages to the Terminal.
     > bebusy
 
 ![Functionality](https://rawgit.com/ondrek/bebusy.js/master/graphs/gollum.jpg)
+
+<br/><br/>
+
+## Feedback from fans
+
+ > “OMG your bebusy lib is awesome,<br/>
+ > I'll install it at work tomorrow so that I can work on my presentation for Thursday”<br/>
+ > — [Olivier X.](https://twitter.com/OCombe/status/526493222554857472)
+
+ > This is a python script that printing random messages into your Terminal,<br/>
+ > so you look very busy, inspired by bebusy.js. You are gonna love it.<br/>
+ > — [bebusy.py](https://github.com/skyline75489/bebusy.py) by skyline75489
+
 
 
 <br/><br/>
