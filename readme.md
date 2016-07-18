@@ -12,11 +12,9 @@ It fakes developer's activity by printing random messages into the Terminal..<br
 <br/><br/>
 
 ## You shall use this plugin, when you ..
- .. are a lazy motherfucker who browses a facebook pages with cats
- .. have a project deadline straight ahead
- .. read a lot of blogs about productivity while procrastinating
-
-<br/>
+ .. are a lazy motherfucker who browses cats on Facebook<br/>
+ .. have a project deadline straight ahead<br/>
+ .. read a lot of blogs about productivity while procrastinating<br/>
 
 ![what if I told you, you are useless piece of shit?](https://rawgit.com/ondrek/bebusy.js/master/graphs/morpheus.jpg?2)
 
@@ -38,10 +36,11 @@ It fakes developer's activity by printing random messages into the Terminal..<br
  > I'll install it at work tomorrow so that I can work on my presentation for Thursday”<br/>
  > — [Olivier X.](https://twitter.com/OCombe/status/526493222554857472)
 
+<br/>
+
  > This is a python script that printing random messages into your Terminal,<br/>
  > so you look very busy, inspired by bebusy.js. You are gonna love it.<br/>
  > — [bebusy.py](https://github.com/skyline75489/bebusy.py) by skyline75489
-
 
 
 <br/><br/>
@@ -52,6 +51,4 @@ It fakes developer's activity by printing random messages into the Terminal..<br
 
 <br/><br/>
 
-## Author Samuel Ondrek**; [Twitter](https://twitter.com/ondrek "Follow ma men on Twitter"); [Github](https://github.com/ondrek "Follow ma men on Github");
-
-Inspirated by [Pablo](https://twitter.com/Puigcerber).
+Coded by Samuel [Ondrek](https://ondrek.com) & inspirated by [Pablo](https://twitter.com/Puigcerber).
