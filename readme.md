@@ -7,6 +7,9 @@
 It fakes developer's activity by printing random messages into the Terminal..<br/>
 .. so you can browse Facebook, until the “build” is done ;)
 
+<br/>
+dasdadasdas
+
 ![Functionality](https://rawgit.com/ondrek/bebusy.js/master/graphs/functionality.gif)
 
 <br/><br/>
