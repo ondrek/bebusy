@@ -52,3 +52,4 @@ It fakes developer's activity by printing random messages into the Terminal..<br
 <br/><br/>
 
 Coded by Samuel [Ondrek](https://ondrek.com) & inspirated by [Pablo](https://twitter.com/Puigcerber).
+~~If~~ When you find yourself fired, please don't contact me.
