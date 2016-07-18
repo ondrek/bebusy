@@ -31,8 +31,7 @@
      */
     BeBusy.prototype.askInitUserQuestions = function(){
 
-        console.log("Hello, visitor! Welcome in BeBusy package".green);
-        console.log("Version: 1.0".red);
+        console.info("\n Welcome, you lazy piece of shit!".green);
 
         this.askTheQuestionAndGetAnAnswer();
 
@@ -57,7 +56,7 @@
      */
     BeBusy.prototype.askTheQuestionAndGetAnAnswer = function(){
 
-        var questions = "What speed do you want (fast, medium, slow or random): ";
+        var questions = " Press ENTER for random speed".green + " (or type 'slow'/'medium'/'fast'): ";
         var that = this;
 
         this.rl = readlineMdl.createInterface({
@@ -79,6 +78,15 @@
 
         var possibleAnswers = ["slow", "medium", "fast", "random"];
         var isValidAnswer = (possibleAnswers.indexOf(answer)!==-1);
+
+        if (answer.length===0){
+            // no answer, so ENTER pressed
+            isValidAnswer = true;
+            answer = "random";
+        }
+
+        console.info("");
+
 
         this.rl.close();
 

@@ -1,20 +1,20 @@
 {
   "name": "bebusy",
   "subdomain": "bebusy",
-  "main": "./bebusy.js",
+  "main": "./bebusy",
   "homepage": "https://www.npmjs.org/package/bebusy",
   "bin": {
     "bebusy": "./bebusy.js"
   },
   "author": "Samuel Ondrek (http://github.com/ondrek/)",
   "bugs": {
-    "url": "https://github.com/ondrek/bebusy.js/issues/"
+    "url": "https://github.com/ondrek/bebusy/issues/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ondrek/bebusy.js.git"
+    "url": "https://github.com/ondrek/bebusy.git"
   },
-  "description": "fakes developer's productivity by printing random messages to your Terminal, so you look very busy like you are compiling some important shit..",
+  "description": "Fakes developer's activity by printing random messages into the Terminal, so you look busy like compiling some important shit.",
   "keywords": [
     "bebusy",
     "busy",
@@ -34,8 +34,8 @@
     "test": "./bebusy.js"
   },
   "dependencies": {
-    "colors": "1.0.3",
+    "colors": "1.1.2",
     "boganipsum": "0.1.0",
-    "underscore": "1.7.0"
+    "underscore": "1.8.3"
   }
 }

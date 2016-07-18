@@ -45,7 +45,7 @@ It fakes developer's activity by printing random messages into the Terminal..<br
 
 <br/><br/>
 
-## Case studies fancy graphs
+## Very important case study
 
 ![Productivity image](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-2.png?abc)
 
