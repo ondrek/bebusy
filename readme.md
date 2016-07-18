@@ -2,13 +2,7 @@
 
 <br/>
 
-## What is this plugin good for?
-
-It fakes developer's activity by printing random messages into the Terminal..<br/>
-.. so you can browse Facebook, until the “build” is done ;)
-
-<br/>
-dasdadasdas
+## How does it look like?
 
 ![Functionality](https://rawgit.com/ondrek/bebusy.js/master/graphs/functionality.gif)
 
