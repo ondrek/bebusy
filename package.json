@@ -21,11 +21,16 @@
     "work",
     "console",
     "random",
+    "twat",
+    "procrastination",
+    "fake",
+    "lazy",
+    "dithering",
     "fun",
     "terminal"
   ],
   "preferGlobal": true,
-  "version": "0.2.17",
+  "version": "2.1.1",
   "license": "MIT",
   "engines": {
     "node": ">=0.8"
