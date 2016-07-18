@@ -21,8 +21,9 @@ It fakes your activity by printing random messages to the Terminal.
 
 <br/><br/>
 
- > ### “OMG your bebusy lib is awesome, I'll install it at work tomorrow so that I can work on my presentation
- > for Thursday” — [Olivier X.](https://twitter.com/OCombe/status/526493222554857472)
+ > “OMG your bebusy lib is awesome,
+ > I'll install it at work tomorrow so that I can work on my presentation for Thursday”
+ > — [Olivier X.](https://twitter.com/OCombe/status/526493222554857472)
 
 <br/><br/>
 
