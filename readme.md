@@ -1,10 +1,11 @@
-# bebusy (.js)
+# Bebusy (.js)
 
 <br/>
 
 ## What is this plugin good for?
 
-It fakes your activity by printing random messages to the Terminal.
+It fakes developer's activity by printing random messages into the Terminal..<br/>
+.. so you can browse Facebook, until the “build” is done ;)
 
 ![Functionality](https://rawgit.com/ondrek/bebusy.js/master/graphs/functionality.gif)
 
