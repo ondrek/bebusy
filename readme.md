@@ -45,11 +45,11 @@ It fakes developer's activity by printing random messages into the Terminal..<br
 
 <br/><br/>
 
-## Case Studies Fancy Graphs
+## Case studies fancy graphs
 
 ![Productivity image](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-2.png)
 
 <br/><br/>
 
-Coded by Samuel [Ondrek](https://ondrek.com) & inspirated by [Pablo](https://twitter.com/Puigcerber).
+Coded by Samuel [Ondrek](https://ondrek.com) & inspirated by [Pablo](https://twitter.com/Puigcerber).<br/>
 ~~If~~ When you find yourself fired, please don't contact me.
