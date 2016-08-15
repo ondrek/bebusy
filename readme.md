@@ -2,7 +2,7 @@
 
 <br/>
 
-## How does it look like?
+## What does it look like?
 
 ![Functionality](https://rawgit.com/ondrek/bebusy.js/master/graphs/functionality.gif)
 
