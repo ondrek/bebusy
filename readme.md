@@ -54,5 +54,5 @@
 
 <br/><br/>
 
-Coded by Samuel [Ondrek](https://ondrek.com) & inspirated by [Pablo](https://twitter.com/Puigcerber).<br/>
+Coded by Samuel [Ondrek](https://ondrek.com) & inspirated by [Pablo](https://twitter.com/Puigcerber) in Paris.<br/>
 ~~If~~ When you find yourself fired, please don't contact me.
