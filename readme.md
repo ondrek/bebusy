@@ -37,8 +37,9 @@
  > so you look very busy, inspired by bebusy.js. You are gonna love it.<br/>
  > — [bebusy.py](https://github.com/skyline75489/bebusy.py) by skyline75489
 
- > I love to masturbate with this plugin on. 
- > — no one
+ > Sometimes I just run Bebusy and masturbate at work. My boss and my colleagues<br/>
+ > never figured out! Thanks, BeBusy!<br/>
+ > — No one
 
 
 <br/><br/>
