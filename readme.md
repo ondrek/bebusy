@@ -33,11 +33,12 @@
  > I'll install it at work tomorrow so that I can work on my presentation for Thursday”<br/>
  > — [Olivier X.](https://twitter.com/OCombe/status/526493222554857472)
 
-<br/>
-
  > This is a python script that printing random messages into your Terminal,<br/>
  > so you look very busy, inspired by bebusy.js. You are gonna love it.<br/>
  > — [bebusy.py](https://github.com/skyline75489/bebusy.py) by skyline75489
+
+ > I love to masturbate with this plugin on. 
+ > — no one
 
 
 <br/><br/>
