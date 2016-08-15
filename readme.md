@@ -32,11 +32,11 @@
  > “OMG your bebusy lib is awesome,<br/>
  > I'll install it at work tomorrow so that I can work on my presentation for Thursday”<br/>
  > — [Olivier X.](https://twitter.com/OCombe/status/526493222554857472)
-.
+<br/>
  > This is a python script that printing random messages into your Terminal,<br/>
  > so you look very busy, inspired by bebusy.js. You are gonna love it.<br/>
  > — [bebusy.py](https://github.com/skyline75489/bebusy.py) by skyline75489
-.
+<br/>
  > Sometimes I just run Bebusy and masturbate at work. My boss and my colleagues<br/>
  > never figured out! Thanks, BeBusy!<br/>
  > — No one
