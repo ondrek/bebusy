@@ -48,7 +48,7 @@
 
 <br/><br/>
 
-## Very important case study
+## Dependence: Devs' productivity based on time
 
 ![Productivity image](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-2.png?abc)
 
