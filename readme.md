@@ -48,7 +48,7 @@
 
 <br/><br/>
 
-## Dependence: Developer's productivity based on time
+## Developer's productivity based on time
 
 ![Productivity image](https://rawgit.com/ondrek/bebusy.js/master/graphs/productivity-2.png?abc)
 
